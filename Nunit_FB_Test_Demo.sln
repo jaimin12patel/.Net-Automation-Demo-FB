@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_FB_Test_Demo", "Nunit_FB_Test_Demo\Nunit_FB_Test_Demo.csproj", "{CEE97A3B-71DB-47C8-A290-AAD230309448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE97A3B-71DB-47C8-A290-AAD230309448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE97A3B-71DB-47C8-A290-AAD230309448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE97A3B-71DB-47C8-A290-AAD230309448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE97A3B-71DB-47C8-A290-AAD230309448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
